@@ -1,6 +1,10 @@
+/** Back-end Java
+*** M2 - Milestone 2
+*** Roger Torrent */
+
 import javax.swing.JOptionPane;
 
-public class Milestone2 {
+public class M2_Milestone2 {
 	public static void main(String args[]) {
 		int n;
 		do

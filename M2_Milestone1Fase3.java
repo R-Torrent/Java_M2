@@ -1,10 +1,14 @@
+/** Back-end Java
+*** M2 - Milestone 1 - Fase 3
+*** Roger Torrent */
+
 import java.util.ArrayList;
 import java.util.HashMap;
 
-public class Milestone1Fase3 {
+public class M2_Milestone1Fase3 {
 	public static void main(String args[]) {
 		ArrayList<Character> nom = new ArrayList<Character>();
-		nom.add('R'); nom.add('o');	nom.add('g'); nom.add('e');	nom.add('r');
+		nom.add('R'); nom.add('o'); nom.add('g'); nom.add('e'); nom.add('r');
 		nom.add('T'); nom.add('o'); nom.add('r'); nom.add('r'); nom.add('e'); nom.add('n'); nom.add('t');
 		
 		HashMap<Character, Integer> Mapa = new HashMap<Character, Integer>();

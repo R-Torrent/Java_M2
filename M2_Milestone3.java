@@ -1,4 +1,8 @@
-public class Milestone3 {
+/** Back-end Java
+*** M2 - Milestone 3
+*** Roger Torrent */
+
+public class M2_Milestone3 {
 	// https://docs.oracle.com/javase/tutorial/essential/concurrency/sleep.html
 	public static void main(String args[]) throws InterruptedException {
 		

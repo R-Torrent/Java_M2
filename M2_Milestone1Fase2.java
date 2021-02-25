@@ -1,7 +1,11 @@
+/** Back-end Java
+*** M2 - Milestone 1 - Fase 2
+*** Roger Torrent */
+
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class Milestone1Fase2 {
+public class M2_Milestone1Fase2 {
 	public static void main(String args[]) {
 		ArrayList<Character> nom = new ArrayList<Character>();
 		nom.add('R');
